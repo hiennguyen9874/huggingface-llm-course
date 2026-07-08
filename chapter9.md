@@ -1,7 +1,3 @@
-Dưới đây là bản tổng hợp chi tiết, dễ hiểu nội dung `chapters/en/chapter9`. Chương này nói về **Gradio**: thư viện Python dùng để tạo demo/web UI tương tác cho model Machine Learning.
-
----
-
 # 1. Gradio dùng để làm gì?
 
 Gradio giúp bạn biến một hàm Python hoặc model ML thành một giao diện web tương tác chỉ với vài dòng code.
